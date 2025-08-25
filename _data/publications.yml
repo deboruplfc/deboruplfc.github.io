@@ -2,7 +2,7 @@ main:
 
   - title: "Data Analysis and Prediction of Alzheimer's Disease in patients using new and existing algorithms"
     authors: <strong>Deborup Sanyal</strong> and Mingchen Gao
-    pdf: ./assets/files/Alzheimer\'s.pdf
+    pdf: ./assets/files/Alzheimers.pdf
     image: ./assets/img/Alzheimers.png
 
   - title: "Covid-19 Prediction based on CT-Scans of Lungs using DenseNet Architecture"
