@@ -2,10 +2,12 @@ main:
 
   - title: "Covid-19 Prediction based on CT-Scans of Lungs using DenseNet Architecture"
     authors: <strong>Deborup Sanyal</strong> and Mingchen Gao
+    conference: 2022
     pdf: ./assets/files/Covid-19_DenseNet.pdf
     image: ./assets/img/COVID.png
   
   - title: "Data Analysis and Prediction of Alzheimer's Disease in patients using new and existing algorithms"
     authors: <strong>Deborup Sanyal</strong> and Abhinav Bhushan
+    conference: 2019
     pdf: ./assets/files/Alzheimers.pdf
     image: ./assets/img/Alzheimers.png
