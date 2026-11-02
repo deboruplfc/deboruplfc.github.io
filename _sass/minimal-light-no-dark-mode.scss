@@ -520,3 +520,24 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+// Maroon base color
+$maroon: #800000;
+$maroon-dark: #5c0000;
+
+h1, h2, h3, h4, h5, h6, autocolor, email, position {
+  color: $maroon;
+}
+
+a, .social-icons a {
+  color: $maroon !important;
+}
+
+a:hover, .social-icons a:hover {
+  color: $maroon-dark !important;
+}
+
+email.first-contact {
+  display: inline-block;
+  margin-top: 0.8rem;
+}
