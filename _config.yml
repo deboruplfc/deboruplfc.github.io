@@ -1,6 +1,6 @@
 # Basic Information 
 title: Deborup Sanyal
-email: deboruplfc@gmail.com
+email: dsanyal@syr.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,6 +12,8 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 github_link: https://github.com/deboruplfc
 linkedin: https://www.linkedin.com/in/deborup-sanyal/
+google_scholar: https://scholar.google.com/citations?hl=en&user=584wGWgAAAAJ
+twitter: https://x.com/deborupsanyal
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -25,7 +27,7 @@ enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
