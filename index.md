@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+<!-- ## About Me -->
 
 Hello there! 👋
 
@@ -10,10 +10,10 @@ I am a CS Ph.D. Student, fortunately advised by [Prof. Bryan S. Kim](https://web
 
 I also have 3+ years of Software & Platform Engineering experience. Following graduation, I joined the Chief Data Office at [Nomura](https://www.nomura.com/) where I built systems handling ~10M trades daily with real-time processing. I was also involved in designing and maintaining Data & ML platforms in both microservice & monolithic architectures. In the past, I was a research assistant at [The University of Texas at Dallas](https://utdallas.edu/), spent two summers as a research intern at [Illinois Institute of Technology](https://www.iit.edu/) and a summer at [Qatar Computing Research Institute](https://www.hbku.edu.qa/en/qcri).
 
-<!-- ## Research Interests
+## Research Interests
 
-My work explores distributed data systems that bridge theoretical foundations with practical scalability challenges in modern computing environments. I focus on developing intelligent storage architectures, self-optimizing databases, and adaptive data management systems that can dynamically respond to evolving workloads across diverse infrastructure. Building on my experience with large-scale data systems and AI/ML pipelines, I aim to advance next-generation distributed architectures that automatically adapt to changing computational demands.
+My current interests are memory and storage systems that bridge hardware capabilities with the software stacks that use them. Specifically focused on redesigning host–device interfaces so that addresses carry performance meaning.
 
-- **Areas:** Distributed Systems, Data Storage, File Systems, Databases, Data Infrastructure, Data Management, High-Performance Computing, Data Engineering, Platform Engineering, Machine Learning, AI/ML Applications -->
+<!-- - **Areas:** Distributed Systems, Data Storage, File Systems, Databases, Data Infrastructure, Data Management, High-Performance Computing, Data Engineering, Platform Engineering, Machine Learning, AI/ML Applications -->
 
 {% include_relative _includes/publications.md %}
