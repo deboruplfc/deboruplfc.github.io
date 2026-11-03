@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
-@font-face { font-family: "Kp Roman"; font-style: normal; font-weight: 400; font-display: swap; src: url("../fonts/kpfonts/KpRoman-Regular.otf") format("opentype"); }
-@font-face { font-family: "Kp Roman"; font-style: italic; font-weight: 400; font-display: swap; src: url("../fonts/kpfonts/KpRoman-Italic.otf") format("opentype"); }
-@font-face { font-family: "Kp Roman"; font-style: normal; font-weight: 600; font-display: swap; src: url("../fonts/kpfonts/KpRoman-Semibold.otf") format("opentype"); }
-@font-face { font-family: "Kp Roman"; font-style: normal; font-weight: 700; font-display: swap; src: url("../fonts/kpfonts/KpRoman-Bold.otf") format("opentype"); }
-@font-face { font-family: "Kp Roman"; font-style: italic; font-weight: 700; font-display: swap; src: url("../fonts/kpfonts/KpRoman-BoldItalic.otf") format("opentype"); }
+@font-face { font-family: "Bitstream Vera Sans"; font-style: normal; font-weight: 400; font-display: swap; src: url("../fonts/vera/Vera.ttf") format("truetype"); }
+@font-face { font-family: "Bitstream Vera Sans"; font-style: italic; font-weight: 400; font-display: swap; src: url("../fonts/vera/VeraIt.ttf") format("truetype"); }
+@font-face { font-family: "Bitstream Vera Sans"; font-style: normal; font-weight: 700; font-display: swap; src: url("../fonts/vera/VeraBd.ttf") format("truetype"); }
+@font-face { font-family: "Bitstream Vera Sans"; font-style: italic; font-weight: 700; font-display: swap; src: url("../fonts/vera/VeraBI.ttf") format("truetype"); }
+
 
 body {
   background-color: #fff;
   padding:0px;
-  font: 16.0px/1.5 "Kp Roman", serif; 
+  font: 16.0px/1.5 "Bitstream Vera Sans", sans-serif;
   color:#595959;
   font-weight:400;
   margin:0

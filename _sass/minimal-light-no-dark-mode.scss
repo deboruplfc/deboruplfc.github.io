@@ -557,3 +557,7 @@ section > p a {
 section > p a.plain-link {
   font-weight: 400;
 }
+
+section h2:not(:first-child) {
+  margin-top: 2.5rem;
+}
