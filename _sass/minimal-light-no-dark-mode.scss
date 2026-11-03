@@ -521,11 +521,15 @@ footer {
   font-family: monospace;
 }
 
-// Maroon base color
-$maroon: #800000;
-$maroon-dark: #5c0000;
+// Color theme: black text, dark maroon accents
+$maroon: #5c0000;
+$maroon-hover: #3d0000;
 
-h1, h2, h3, h4, h5, h6, autocolor, email, position {
+body, p, li, autocolor, email, strong, small, a small, dt, th {
+  color: #000;
+}
+
+h1, h2, h3, h4, h5, h6, position {
   color: $maroon;
 }
 
@@ -534,10 +538,18 @@ a, .social-icons a {
 }
 
 a:hover, .social-icons a:hover {
-  color: $maroon-dark !important;
+  color: $maroon-hover !important;
+}
+
+a.affiliation {
+  color: #000 !important;
+}
+
+a.affiliation:hover {
+  color: $maroon !important;
 }
 
 email.first-contact {
   display: inline-block;
-  margin-top: 0.8rem;
+  margin-top: 1.6rem;
 }
