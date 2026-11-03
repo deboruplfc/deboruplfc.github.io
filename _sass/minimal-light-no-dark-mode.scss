@@ -521,13 +521,9 @@ footer {
   font-family: monospace;
 }
 
-// Color theme: black text, dark maroon accents
+// Color theme: gray text, maroon accents
 $maroon: #800000;
 $maroon-hover: #5c0000;
-
-body, p, li, autocolor, email, strong, small, a small, dt, th {
-  color: #000;
-}
 
 h1, h2, h3, h4, h5, h6, position {
   color: $maroon;
@@ -542,7 +538,7 @@ a:hover, .social-icons a:hover {
 }
 
 a.affiliation {
-  color: #000 !important;
+  color: #595959 !important;
 }
 
 a.affiliation:hover {
