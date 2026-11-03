@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/computer-modern@0.1.2/cmu-serif.css');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
 body {
   background-color: #fff;
   padding:0px;
-  font: 16.0px/1.5 Roboto, sans-serif; 
+  font: 16.0px/1.5 "CMU Serif", serif; 
   color:#595959;
   font-weight:400;
   margin:0
