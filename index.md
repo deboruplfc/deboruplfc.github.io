@@ -12,7 +12,7 @@ I also have 3+ years of Software & Platform Engineering experience. Following gr
 
 ## Research Interests
 
-I'm broadly interested in computer systems research, especially in storage systems, memory systems, operating systems, and computer architecture. I'm currently exploring memory and storage systems that bridge hardware capabilities with the software stacks that use them. Specifically focused on redesigning host–device interfaces so that addresses carry performance meaning.
+I'm broadly interested in computer systems research, especially in storage systems, memory systems, operating systems, and computer architecture. I'm currently exploring memory and storage systems that bridge hardware capabilities with the software stacks that use them. Specifically focused on redesigning host–device interfaces.
 
 - **Areas:** Disaggregated Memory, Processing-Near-Memory, Flash Memory and SSDs, File Systems, Storage Interfaces, Data-Intensive Systems
 
