@@ -1,7 +1,7 @@
-# Basic Information 
+# Basic Information
 title: Deborup Sanyal
 position: Ph.D. Student
-affiliation: Department of Electrical Engineering and Computer Science, Syracuse University
+affiliation: Department of Electrical Engineering and Computer Science Syracuse University
 affiliation_link: https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science
 email: dsanyal@syr.edu
 office: 3-226 CST
@@ -12,15 +12,15 @@ keywords: minimal light
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
-# Links 
+# Links
 # If you don't need one of them, you may delete the corresponding line.
 github_link: https://github.com/deboruplfc
 linkedin: https://www.linkedin.com/in/deborup-sanyal/
 google_scholar: https://scholar.google.com/citations?hl=en&user=584wGWgAAAAJ
 twitter: https://x.com/deborupsanyal
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/image.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
