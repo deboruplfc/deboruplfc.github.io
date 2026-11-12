@@ -47,6 +47,17 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
+# Keep non-content files out of the sitemap
+defaults:
+  - scope:
+      path: "assets/fonts"
+    values:
+      sitemap: false
+  - scope:
+      path: "google7fbc3bf23dac8139.html"
+    values:
+      sitemap: false
+
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
