@@ -8,8 +8,8 @@ office: 3-226 CST
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: Deborup Sanyal, Syracuse University, computer systems, storage systems, memory systems, operating systems, disaggregated memory, processing-near-memory, flash memory, SSD, file systems, storage interfaces
+description: Deborup Sanyal is a Ph.D. student at Syracuse University researching memory and storage systems, including disaggregated memory, flash SSDs, file systems and storage interfaces.
 canonical: https://deboruplfc.github.io/
 url: "https://deboruplfc.github.io"
 
@@ -55,6 +55,10 @@ defaults:
       sitemap: false
   - scope:
       path: "google7fbc3bf23dac8139.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "assets/files/curriculum_vitae.pdf"
     values:
       sitemap: false
 
