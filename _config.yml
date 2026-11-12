@@ -57,10 +57,6 @@ defaults:
       path: "google7fbc3bf23dac8139.html"
     values:
       sitemap: false
-  - scope:
-      path: "assets/files/curriculum_vitae.pdf"
-    values:
-      sitemap: false
 
 # The following files will be removed from the generated website.
 exclude:
